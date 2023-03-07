@@ -8,3 +8,4 @@ git push -u origin main
 
 Creamos el archivo index.html con la estructura básica de HTML
 
+La rama HotFixParcial la creamos directamente desde GitHub
