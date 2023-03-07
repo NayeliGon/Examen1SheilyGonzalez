@@ -6,3 +6,5 @@ git remote add origin https://github.com/NayeliGon/Examen1SheilyGonzalez.git
 git branch -M main
 git push -u origin main
 
+Creamos el archivo index.html con la estructura básica de HTML
+
